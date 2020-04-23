@@ -13,7 +13,7 @@ Nairobi, Kenya<br/>
 <div id="webaddress">
   <a href="https://thomasbshop.github.io"><i class="fas fa-home"></i> thomasbshop.github.io</a> - 
   <a href="https://github.com/thomasbshop"><i class="fab fa-github"></i> thomasbshop</a> - 
-  <a href="https://www.linkedin.com/in/thomas-juma/"><i class="fab fa-linkedin"></i> thomas-juma</a> - 
+  <a href="https://www.linkedin.com/in/thomas-juma/"><i class="fab fa-linkedin"></i> thomas-juma</a>
 </div>
 
 
@@ -28,7 +28,7 @@ Nairobi, Kenya<br/>
 `April 2019 — May 2019`
 **Front-end Developer**, *Unitcare Networks*, Remote.
 
-`2009-2012`
+`January 2018-August 2018`
 **Software Support Intern**, *OTB Africa*, Nairobi, Kenya.
 
 
@@ -67,14 +67,14 @@ Kenyatta University of Agriculture and Technology*, Juja, Nairobi, Kenya.
 
 ### Chid Protection Information Management System
 
-A child welfare monitoring system built with python using the Django web framework.
-• https://ovc.childprotection.uonbi.ac.ke/
+A child welfare monitoring system built with python using the Django web framework.<br/>
+• <a href="https://ovc.childprotection.uonbi.ac.ke/"> https://ovc.childprotection.uonbi.ac.ke/</a>
 
 ### Unitcare Fleet Management System
 
 UX/UI and workflow design, user-stories design and development for UnitCare Network built with angular 8
-and the .NET framework
-• https://elementcare.azurewebsites.net
+and the .NET framework<br/>
+• <a href="https://elementcare.azurewebsites.net"> https://elementcare.azurewebsites.net</a>
 
 ### Visual Diagnoser
 
@@ -118,4 +118,4 @@ swaweru@healthit.uonbi.ac.ke · +254 735 194080
 *Cyprian Otieno from Dell Inc*
 cypotieno@gmail.com · +1 512 8798449
 
-<br/>Last updated: April 2020<br/><br/>
+<br/><br/>`Last updated: April 2020`<br/><br/>
