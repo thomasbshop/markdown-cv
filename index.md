@@ -8,7 +8,8 @@ Software developer, Unitcare Network
 P.O. Box 7960 - 00100 <br/>
 Nairobi, Kenya<br/>
 
-<a href="thomas.juma@outlook.com">thomas.juma@outlook.com</a> - +254 723 745263
+thomas.juma@outlook.com
++254 723 745263
 
 <div id="webaddress">
   <a href="https://thomasbshop.github.io"><i class="fas fa-home"></i> thomasbshop.github.io</a> - 
