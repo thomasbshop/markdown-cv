@@ -113,10 +113,12 @@ Arts & Culture<br/>
 
 ## Refferences
 
-*Stephen Waweru from University of Nairobi,HealthIT*
-swaweru@healthit.uonbi.ac.ke · +254 735 194080
+*Stephen Waweru from University of Nairobi,HealthIT*<br/>
+swaweru@healthit.uonbi.ac.ke <br/>
+· +254 735 194080
 
-*Cyprian Otieno from Dell Inc*
-cypotieno@gmail.com · +1 512 8798449
+*Cyprian Otieno from Dell Inc*<br/>
+cypotieno@gmail.com <br/>
+· +1 512 8798449
 
 <br/><br/>`Last updated: April 2020`<br/><br/>
